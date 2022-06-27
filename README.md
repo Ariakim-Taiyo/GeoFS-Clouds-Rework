@@ -14,3 +14,6 @@ Clouds "glow" at night.
 
 **IMPORTANT!!**<br>
 Although I have tried to optimize the shaders, The nature of some of the effects can cause significant lag on lower end devices. I would not recommend setting the volumetric quality past 3 on Chromebooks, mobile devices, and low end integrated gpus. These shaders have been tested with AMD, NVIDIA, and Apple M1 devices and are compatible with them. The shaders will likely break on mobile devices such as smartphones and possibly tablets. Most of the shader code is still very similar to the original, with minor changes. It is also very messy, so good luck reading through it.
+
+
+Also, it's kind of obvious, but this only works on 3.3 beta.
